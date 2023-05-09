@@ -1,9 +1,4 @@
 streamlit
-requests
-moviepy.editor import *
-pytube import YouTube
-tempfile
-os
-moviepy.editor import AudioFileClip
-shutil
-yt_dlp as youtube_dl
+moviepy
+pytube
+yt-dlp
